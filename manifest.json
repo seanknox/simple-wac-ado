@@ -1,5 +1,15 @@
 {
   "manifest_version": 2,
   "name": "Simple WAC Azure DevOps UI",
-  "version": "0.1"
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://office-test2.visualstudio.com/OCA"
+      ],
+      "css": [
+        "styles.css"
+      ]
+    }
+  ]
 }

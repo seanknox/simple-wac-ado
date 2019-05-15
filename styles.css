@@ -1,0 +1,68 @@
+/* START OVERVIEW BUTTONS */
+/* Project Online */
+#__bolt-TVT-TVT-PjO-TVT-HomePage {
+  display: none
+}
+/* Custom Home */
+#__bolt-ms-samples-samples-contributions-guide-home-hub {
+  display: none
+}
+/* END OVERVIEW */
+
+/* START BOARDS BUTTONS */
+/* wql playground */
+#__bolt-ottostreifel-wiql-editor-wiql-playground-hub {
+  display: none
+}
+/* activity feed */
+#__bolt-davesmits-VSTSActivityFeed-VSTSActivityFeedHub {
+  display: none
+}
+/* calendar */
+#__bolt-ms-devlabs-team-calendar-calendar {
+  display: none
+}
+/* product vision */
+#__bolt-agile-extensions-product-vision-work-hub {
+  display: none
+}
+/* work item query diff */
+#__bolt-benjaminwitman-wit-query-diff-WorkItemQueryDiffHub {
+  display: none
+}
+/* work item query graph */
+#__bolt-benjaminwitman-wit-query-graph-WorkItemQueryGraphHub {
+  display: none
+}
+/* hello */
+#__bolt-judemars-sample-extension-Fabrikam-HelloWorld {
+  display: none
+}
+/* scrum report */
+#__bolt-MikaelAndVlatko-VSO-Scrum-Report-KriefMikael-ScrumReport {
+  display: none
+}
+/* estimate */
+#__bolt-ms-devlabs-estimate-Estimate-Main {
+  display: none
+}
+/* myactivity */
+#__bolt-ms-devlabs-vsts-extension-workitem-activities-workitem-activities-hub {
+  display: none
+}
+/* areas */
+#__bolt-ms-eswm-areas-areas-hub {
+  display: none
+}
+
+/* custom work hub */
+#__bolt-ms-samples-samples-contributions-guide-work-hub {
+  display: none
+}
+/* END BOARDS */
+
+/* START OUTER BUTTONS */
+#__bolt-ms-devlabs-wiki-wiki-hub-group {
+  display: none
+}
+/* END OUTER BUTTONS */
